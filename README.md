@@ -11,7 +11,7 @@ git submodule update --init --recursive
 ```
 
 # Echogram (sonar image)
-Using the precision.ipynb file, one can visualize and process sonar data to perform the precision analysis 
+Using the `precision.ipynb` file, one can visualize and process sonar data to perform the precision analysis 
 
 ![example echogram][output1]
 
